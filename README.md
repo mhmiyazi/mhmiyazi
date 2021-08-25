@@ -4,7 +4,7 @@
 
 
 <a href="#mhmiyazi-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="MH Miyazi" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **BlackX Studio**
