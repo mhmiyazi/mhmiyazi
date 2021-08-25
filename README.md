@@ -12,7 +12,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[twitter]:**
+- :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
 
