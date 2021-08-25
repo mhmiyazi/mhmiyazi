@@ -200,12 +200,12 @@
 <br>
 <h2> >>More Statistics</h2>
 <p height="200px>
-<a href="#mhmiyazi-title">
+<a href="#mhmiyazi-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmiyazi" alt="MH Miyazi" align="left" />
  </a>                                                                                                                             
- <a href="#mhmiyazi-title">
- <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="MH Miyazi" align="Right" />
- <img src="gif.gif" alt="MH Miyazi" align="Right" />
+ <a href="#mhmiyazi-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&count_private=true&include_all_commits=true" alt="MH Miyazi" align="Right" />
+ <img style="border-radius:50%;" height="50%" width="51%" src="gif.gif" alt="MH Miyazi" align="Right" />
 </a>
 </p>
 
