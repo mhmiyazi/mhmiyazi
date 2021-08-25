@@ -12,7 +12,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **Twitter**
+- :bird: &nbsp;Let's talk more in **[twitter]:**
 
 <br>
 
@@ -196,5 +196,5 @@
 <!-- links -->
 
 
-
+[twitter]: https://twitter.com/mhmiyazi "MH Miyazi Twitter"
 [linkedin]: https://www.linkedin.com/in/mhmiyazi/ "MH Miyazi LinkedIn"
