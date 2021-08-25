@@ -62,11 +62,15 @@
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 <br>
 <hr>
-<h2 align="left" id="mhmiyazi-tech">Favorite Tech</h2>
+ <p>
+ <h2>Total Visitors</h2>  
+ <img src="https://profile-counter.glitch.me/%7Bmhmiyazi%7D/count.svg" align="left" />
+</p>
+
 <br>
-
+<hr>
+<h2 align="left" id="mhmiyazi-tech">Favorite Technology:</h2>
 <p> >> Tools, languages, and other things that I like to work with.</p>
-
 
 <table align="center">
   <tr>
@@ -245,15 +249,15 @@
 <h2> >>More Statistics</h2>
 <p height="200px>
 <a href="#mhmiyazi-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmiyazi" alt="MH Miyazi" align="left" />
- </a>                                                                                                                             
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmiyazi" alt="MH Miyazi" align="left" />                                                        </a>                                                                                                                             
  <a href="#mhmiyazi-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&count_private=true&include_all_commits=true" alt="MH Miyazi" align="Right" />
  <img style="border-radius:50%;" height="51%" width="51%" src="gif.gif" alt="MH Miyazi" align="Right" />
 </a>
 </p>
-
-
+   
+                                                                                                     
+                                                                                                     
 [Twitter]: https://twitter.com/mhmiyazi "MH Miyazi Twitter"
 [linkedin]: https://www.linkedin.com/in/mhmiyazi/ "MH Miyazi LinkedIn"
 [Website]: https://mhmiyazi.com/ "MH Miyazi's Personal Website"
