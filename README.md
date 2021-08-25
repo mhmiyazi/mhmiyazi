@@ -1,14 +1,14 @@
 
 <h1 align="left" id="mhmiyazi-title">:wave: Hello there! I'm MH Miyazi</h1>
-<h3 align="left">I am a Full Stack Developer at Freelance </h3>
+<h3 align="left">Uh! i'm a Full Stack Developer</h3>
 
 
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
-- :seedling: &nbsp;I’m currently learning **Swift**
+- :office: &nbsp;I'm currently working at **BlackX Studio**
+- :seedling: &nbsp;I’m currently learning **C#**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
