@@ -4,7 +4,7 @@
 
 
 <a href="#mhmiyazi-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="MH Miyazi" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="MH Miyazi" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **BlackX Studio**
@@ -16,7 +16,16 @@
 - 🌐 &nbsp;Get Touch in My **[Website]**
 
 <br>
+<p>
+ <a href="#mhmiyazi-title">
+ <img src="https://github-readme-stats.vercel.app/api?username=mhmiyazi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="MH Miyazi" align="left" />
+</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="MH Miyazi" align="right" />
 
+  
+</p>
+<br />
+<br>
 <h2 align="left" id="mhmiyazi-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
