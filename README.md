@@ -1,20 +1,19 @@
 
 <h1 align="left" id="mhmiyazi-title">:wave: Hello there! I'm MH Miyazi</h1>
-<h3 align="left">Uh! i'm a Full Stack Developer</h3>
+<h3 align="left">Ahmm! I'm a Full Stack Developer</h3>
 
 
-<a href="#suhailkakar-title">
+<a href="#mhmiyazi-title">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
+
 - :office: &nbsp;I'm currently working at **BlackX Studio**
 - :seedling: &nbsp;I’m currently learning **C#**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **Twitter**
-- :globe_with_meridians: &nbsp;Get touch in My **[Website]**  
-
-
+- 🐦 &nbsp;Let's talk more in **[Twitter]**
+- 🌐 &nbsp;Get Touch in My **[Website]**
 
 <br>
 
@@ -198,5 +197,6 @@
 <!-- links -->
 
 
-[twitter]: https://twitter.com/mhmiyazi "MH Miyazi Twitter"
+[Twitter]: https://twitter.com/mhmiyazi "MH Miyazi Twitter"
 [linkedin]: https://www.linkedin.com/in/mhmiyazi/ "MH Miyazi LinkedIn"
+[Website]: https://mhmiyazi.com/ "MH Miyazi's Personal Website"
