@@ -6,7 +6,6 @@
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
-<br>
 - :office: &nbsp;I'm currently working at **BlackX Studio**
 - :seedling: &nbsp;I’m currently learning **C#**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
