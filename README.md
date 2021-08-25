@@ -6,14 +6,14 @@
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
-
-🏢: &nbsp;I'm currently working at **BlackX Studio**
-🌱: &nbsp;I’m currently learning **C#**
-💬_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
-📫: &nbsp;Ask me about anything, I am happy to **help** :)
-💻: &nbsp;Connect with me on **[LinkedIn]**
-🐦: &nbsp;Let's talk more in **[Twitter]**
-🌐: &nbsp;Get touch in My **[Website]**
+<br>
+🏢: &nbsp;I'm currently working at **BlackX Studio**  <br>
+🌱: &nbsp;I’m currently learning **C#** <br>
+💬_balloon: &nbsp;I like to talk about **Linux** and **Open Source**  <br>
+📫: &nbsp;Ask me about anything, I am happy to **help** :)  <br>
+💻: &nbsp;Connect with me on **[LinkedIn]** <br>
+🐦: &nbsp;Let's talk more in **[Twitter]**  <br>
+🌐: &nbsp;Get touch in My **[Website]** <br>
 
 
 <br>
