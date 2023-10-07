@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **BlackX Studio**
-- :seedling: &nbsp;I’m currently learning **C#**
+- :seedling: &nbsp;I’m currently learning **Python**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
